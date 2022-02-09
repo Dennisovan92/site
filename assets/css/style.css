@@ -426,7 +426,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 64px;
   color: ##383c4c;
-  text-shadow: #6374AB 20px -12px 2px;
+  text-shadow: #6374AB 2px 0px 5px;
 }
 
 #hero h2 {
